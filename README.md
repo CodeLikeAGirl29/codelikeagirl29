@@ -1,5 +1,5 @@
+![20210630_013027_0000](https://user-images.githubusercontent.com/25946305/123906831-e18b3e00-d942-11eb-98ac-dc91e488eeeb.png)
 ### Hi there 👋
-![20210624_111545_0000](https://user-images.githubusercontent.com/25946305/123906484-42664680-d942-11eb-831d-1da1da12ec48.png)
 
 ![<img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg">]
 
