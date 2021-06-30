@@ -1,4 +1,5 @@
-![20210630_013027_0000](<img src="https://user-images.githubusercontent.com/25946305/123906831-e18b3e00-d942-11eb-98ac-dc91e488eeeb.png" width=300 align=right)
+
+![<img src="https://user-images.githubusercontent.com/25946305/123906831-e18b3e00-d942-11eb-98ac-dc91e488eeeb.png" width=300 align=right>]
 ### Hi there 👋
 
 ![<img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg">]
