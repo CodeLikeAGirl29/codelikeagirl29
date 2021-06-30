@@ -44,3 +44,5 @@ I am a fullstack software engineer based out of Raleigh, NC
 <br>
 
 [![Lindseys's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelikeagirl29)](https://github.com/codelikeagirl29/github-readme-stats)
+
+  ---
