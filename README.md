@@ -1,6 +1,5 @@
 
 <img src="https://user-images.githubusercontent.com/25946305/123906831-e18b3e00-d942-11eb-98ac-dc91e488eeeb.png" width=300 align=right>
-### Hi there 👋
 
 <!--
 **CodeLikeAGirl29/codelikeagirl29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
