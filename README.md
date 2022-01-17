@@ -42,8 +42,12 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <br>
+  <br>
+  
+<img src="https://user-images.githubusercontent.com/25946305/149823995-93f5e982-97fd-4c20-b096-dec039e8905b.png" height="100">
 
 <br>
+  <br>
 
 [![Lindseys's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelikeagirl29)](https://github.com/codelikeagirl29/github-readme-stats)
 
