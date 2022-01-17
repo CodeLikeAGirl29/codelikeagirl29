@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 
 
 ### Hello World 👋
-I am a fullstack software engineer based out of Raleigh, NC
+I am a full stack software engineer based out of ***Raleigh, NC***
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+- 🌱 Expanding my knowledge currently in React Native
+- 👯 I’m looking to collaborate on any sort of project
+- 🤔 I’m looking for help with networking and landing my first job
+- 🐶 In my free time, I'm usually at a dog park or hiking the mountains
 <br>
 
 ## Connect with me
