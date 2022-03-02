@@ -1,5 +1,8 @@
-
 <img src="https://user-images.githubusercontent.com/25946305/149823586-4e6823c5-97cd-4fed-8aa8-5e6f7903b6fe.jpg" width=1000>
+
+<div id="header" align="center">
+<img src="https://media4.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=790b7611c6ef3c562ba78cc992190fd534e0fa51b08630e2&rid=giphy.gif&ct=ts" alt="code">
+</div>
 
 <!--
 **CodeLikeAGirl29/codelikeagirl29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,10 +29,11 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 - 🐶 In my free time, I'm usually at a dog park or hiking the mountains
 <br>
 
-## Connect with me
-<a href="https://www.linkedin.com/in/lindsey-howard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-<a href="https://thewifey91.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> <br>
-<a href="https://stackoverflow.com/users/14072521/lindsey"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a> <br>
+## Connect with Me
+<a href="https://www.linkedin.com/in/lindsey-howard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+  <a href="https://twitter.com/dev_lindseyk"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://stackoverflow.com/users/14072521/lindsey"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
 <a href="https://www.facebook.com/lil.rocker.babe091/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 ---
@@ -48,6 +52,8 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 
 <br>
   <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codelikeagirl29&layout=compact"/>
 
 [![Lindseys's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelikeagirl29)](https://github.com/codelikeagirl29/github-readme-stats)
 
