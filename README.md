@@ -29,9 +29,9 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 - 🐶 In my free time, I'm usually at a dog park or hiking the mountains
 <br>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ## Connect with Me
 <a href="https://www.linkedin.com/in/lindsey-howard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
   <a href="https://twitter.com/dev_lindseyk"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 <a href="https://stackoverflow.com/users/14072521/lindsey"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
 <a href="https://www.facebook.com/lil.rocker.babe091/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
