@@ -38,6 +38,10 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeLikeAGirl29)](https://git.io/streak-stats)
+
+---
+
 ## Expertise
 <p>
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -49,11 +53,15 @@ I am a full stack software engineer based out of ***Raleigh, NC***
   <br>
   
 <img src="https://user-images.githubusercontent.com/25946305/149823995-93f5e982-97fd-4c20-b096-dec039e8905b.png" height="100">
-
 <br>
-  <br>
+  
+---
+  
+<br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codelikeagirl29&layout=compact"/>
+  
+---
 
 [![Lindseys's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelikeagirl29)](https://github.com/codelikeagirl29/github-readme-stats)
 
