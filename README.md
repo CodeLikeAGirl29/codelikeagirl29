@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=codelikeagirl29&color=blueviolet)
+
 
 ### Hello World 👋
 I am a full stack software engineer based out of ***Raleigh, NC***
