@@ -16,8 +16,6 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 - 🐶 In my free time, I'm usually at a dog park or hiking the mountains
 <br>
 
-My Machine: ![](https://img.shields.io/badge/Windows-ASUS_Zenbook_Duo-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ## Connect with Me
 <a href="https://www.linkedin.com/in/lindsey-howard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -55,3 +53,5 @@ My Machine: ![](https://img.shields.io/badge/Windows-ASUS_Zenbook_Duo-0078D6?sty
 [![Lindseys's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelikeagirl29)](https://github.com/codelikeagirl29/github-readme-stats)
 
   ---
+  
+  <!-- My Machine: ![](https://img.shields.io/badge/Windows-ASUS_Zenbook_Duo-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
