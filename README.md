@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://lindseyk.dev">
-    <img width="100" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1656865575/code-brackets_s3qo3s.png" alt="logo" />
+    <img width="100" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1659548051/icons/svg_nxjmeu.svg" alt="logo" />
   </a>
 </p>
 
