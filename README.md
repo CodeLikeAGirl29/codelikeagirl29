@@ -60,3 +60,6 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 <center>
 <img src="https://user-images.githubusercontent.com/25946305/149823995-93f5e982-97fd-4c20-b096-dec039e8905b.png" alt="" width="350px" height="100px" />
   </center>
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CodeLikeAGirl29&show_icons=true)
+
