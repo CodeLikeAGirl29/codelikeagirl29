@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<center>
+<p align="center">
 <img src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1662434888/PEfkdvUo_niwg8r.gif" alt="animated hello gif">
-</center>
-  <center>
+</p>
+  <p align="center">
   
 I am a full stack software engineer based out of ***Raleigh, NC***
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
