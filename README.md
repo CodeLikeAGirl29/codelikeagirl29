@@ -4,9 +4,9 @@
   </a>
 </p>
 
-  <font color="#5e72eb">
-<h3 align="center">👋 Hello, my name is Lindsey!</h3>
-  </font>
+<center>
+<img src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1662434888/PEfkdvUo_niwg8r.gif" alt="animated hello gif">
+</center>
   <center>
   
 I am a full stack software engineer based out of ***Raleigh, NC***
