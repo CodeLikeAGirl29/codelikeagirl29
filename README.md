@@ -14,7 +14,7 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 - 🌱 Expanding my knowledge currently in React Native
 - 👯 I’m looking to collaborate on any sort of project
 - 🤔 I’m looking for help with networking and landing my first job
-- 🐶 In my free time, I'm usually at a dog park or hiking the mountains
+- 🐶 In my free time, I'm usually at a dog park or hiking in the mountains
   
   </center>
 <br>
@@ -25,11 +25,11 @@ I am a full stack software engineer based out of ***Raleigh, NC***
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="http://lindseyk.dev" target="_blank" style="margin-right:10px">
-    <img align="center" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1659550798/icons/link-external-regular-24_o0giha.png" alt="link" height="22px" width="22px" />
+    <img align="center" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1662429237/icons/maximize_vi3ff8.png" alt="link" height="22px" width="22px" />
   </a>
   
    <a href="https://twitter.com/dev_lindseyk" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1659547897/icons/317720_social_media_tweet_twitter_social_icon_r9uz0q.png" alt="twitter" height="22px" width="22px" />
+    <img align="center" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1662429002/icons/twitter_ckurtb.png" alt="twitter" height="22px" width="22px" />
   </a>
   
   <a href="https://stackoverflow.com/users/14072521/lindsey" target="_blank" style='margin-right:10px'>
@@ -37,11 +37,11 @@ I am a full stack software engineer based out of ***Raleigh, NC***
     </a>
   
   <a href="https://www.linkedin.com/in/lindsey-howard" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1659548050/icons/linkedin-icon_zckpkr.svg" alt="linkedin" height="22px" width="22px" />
+    <img align="center" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1662429068/icons/linkedin_a9rgij.png" alt="linkedin" height="22px" width="22px" />
   </a>
 
   <a href="mailto:admin@lindseyk.dev" target="_blank">
-    <img align="center" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1659547897/icons/1164530_email_mail_icon_yeclzt.png" alt="email" height="22px" width="22px" />
+    <img align="center" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1662429157/icons/message_fgemsh.png" alt="email" height="22px" width="22px" />
   </a>
 </p>
 
