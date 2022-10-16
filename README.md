@@ -6,19 +6,12 @@
 <img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1665931318/developer_vpdww5.svg" width="360px"/>
 
 - 🔭 I’m currently working on **multiple projects**
-
 - 🌱 I’m currently learning **React Native.**
-
 - 👯 I’m looking to collaborate on **any kind of project.**
-
 - 🤝 I’m looking for help with **networking**
-
 - 👨‍💻 All of my projects are available at [www.lindseyk.dev/](www.lindseyk.dev/)
-
 - 💬 Ask me about **anything you'd like.**
-
 - 📫 How to reach me **admin@lindseyk.dev**
-
 - 📝 Checkout my [resume](https://drive.google.com/file/d/182YmeOK8e9Z897jZP50xMT_rhTDVLpl3/view?usp=sharing)
 
 <p>Think programmers have an easy life? Try building and designing an app only to have the customer say: “oh, just a website is fine!”</p>
