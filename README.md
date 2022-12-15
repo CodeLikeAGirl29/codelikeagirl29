@@ -39,4 +39,4 @@
 
 <br />
 
-[![@codelikeagirl29's Holopin board](https://holopin.me/codelikeagirl29)](https://holopin.io/@codelikeagirl29)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1290519664&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=ffa8ef&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1290519664&redirect=true)
