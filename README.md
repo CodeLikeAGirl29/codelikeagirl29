@@ -14,7 +14,7 @@
 - 📫 How to reach me **admin@lindseyk.dev**
 - 📝 Checkout my [resume](https://drive.google.com/file/d/182YmeOK8e9Z897jZP50xMT_rhTDVLpl3/view?usp=sharing)
 
-<p>Adapt what is useful, reject what is useless, and add what is specifically your own. - Bruce Lee</p>
+<p align="center"><u>"Adapt what is useful, reject what is useless, and add what is specifically your own.</u>"<br> -Bruce Lee</p>
 <br/>
 
 <p align="left">I am a deep logic builder & a problem-solver with great adaptability depending on what the project requires. I love exploring different tech stacks 💻 and leveraging them to build cool things 🛠️. </p>
