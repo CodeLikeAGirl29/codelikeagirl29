@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [www.lindseyk.dev/](www.lindseyk.dev/)
 - 💬 Ask me about **anything you'd like.**
 - 📫 How to reach me **admin@lindseyk.dev**
-- 📝 Checkout my [resume](https://drive.google.com/file/d/182YmeOK8e9Z897jZP50xMT_rhTDVLpl3/view?usp=sharing)
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1bHgWk-TyjNsoGOeLdqW-r5zEd-LSExM_/view?usp=share_link)
 
 <p align="center"><u>"Adapt what is useful, reject what is useless, and add what is specifically your own.</u>"<br> -Bruce Lee</p>
 <br/>
