@@ -11,7 +11,7 @@
 - 🤝 I’m looking for help with **networking**
 - 👨‍💻 All of my projects are available at [www.lindseyk.dev/](www.lindseyk.dev/)
 - 💬 Ask me about **anything you'd like.**
-- 📫 How to reach me **admin@lindseyk.dev**
+- 📫 How to reach me **codelikeagirl91@gmail.com**
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1_sTSHbdwvCsnPaa-2voT0TlH7jtULjYX/view?usp=share_link)
 
 <p align="center"><u>"Adapt what is useful, reject what is useless, and add what is specifically your own.</u>"<br> -Bruce Lee</p>
