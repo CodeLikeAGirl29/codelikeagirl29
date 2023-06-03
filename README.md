@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codelikeagirl29&label=Profile%20views&color=0e75b6&style=flat" alt="codelikeagirl29" /> </p>
 
-<img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1665931318/developer_vpdww5.svg" width="360px"/>
+<img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1685765728/dev-branding/dev_girl_rxjcb3_scevwv.png" width="360px"/>
 
 - 🔭 I’m currently working on **multiple projects**
 - 🌱 I’m currently learning **React Native.**
