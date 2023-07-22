@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
 <h3 align="center">A Full Stack Web Developer based in Pensacola, FL, USA</h3>
 
+[![wakatime](https://wakatime.com/badge/user/cac0be55-a47c-47da-8ef6-ed7af99b546e.svg)](https://wakatime.com/@cac0be55-a47c-47da-8ef6-ed7af99b546e)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codelikeagirl29&label=Profile%20views&color=0e75b6&style=flat" alt="codelikeagirl29" /> </p>
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1685765728/dev-branding/dev_girl_rxjcb3_scevwv.png" width="360px"/>
