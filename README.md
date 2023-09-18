@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
-<h3 align="center">A Full Stack Web Developer based in Pensacola, FL, USA</h3>
+<h3 align="center">A Full Stack Web Developer based in Fort Walton Beach, FL, USA</h3>
 
 [![wakatime](https://wakatime.com/badge/user/cac0be55-a47c-47da-8ef6-ed7af99b546e.svg)](https://wakatime.com/@cac0be55-a47c-47da-8ef6-ed7af99b546e)
 
