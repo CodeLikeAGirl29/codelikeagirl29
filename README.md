@@ -46,3 +46,5 @@
 <br /><br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1290519664&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=ffa8ef&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1290519664&redirect=true)
+
+![](https://hit.yhype.me/github/profile?user_id=25946305)
