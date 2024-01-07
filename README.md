@@ -1,5 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jrnlTtQdMwdpzXs1l7/giphy.gif" width="250"/>
+</div>
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
-<h3 align="center">A Full Stack Web Developer based in Fort Walton Beach, FL, USA</h3>
+<h3 align="center">A __Frontend Web Developer__ based in Fort Walton Beach, FL, USA</h3>
 
 <!--START_SECTION:waka-->
 
@@ -17,17 +20,19 @@ JSON         26 mins         ▒░░░░░░░░░░░░░░░░
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1685765728/dev-branding/dev_girl_rxjcb3_scevwv.png" width="360px"/>
 
-- 🔭 I’m currently working on **multiple projects**
-- 🌱 I’m currently learning **React Native.**
-- 👯 I’m looking to collaborate on **any kind of project.**
-- 🤝 I’m looking for help with **networking**
+- 🔭 I’m currently working on **responsive web design**.
+- 🌱 I’m currently learning **React Native**.
+- 👯 I’m looking to collaborate on **any kind of project**.
+- 🤝 I’m looking for help with **networking**.
 - 👨‍💻 All of my projects are available at [www.lindseyk.dev/](www.lindseyk.dev/)
-- 💬 Ask me about **anything you'd like.**
+- 💬 Ask me about **anything you'd like**.
 - 📫 How to reach me **codelikeagirl91@gmail.com**
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1BVZxrbHCzUo37u5Fx-chgjJkh8DSLKfU/view?usp=sharing)
 
 <p align="center"><u>"Adapt what is useful, reject what is useless, and add what is specifically your own.</u>"<br> -Bruce Lee</p>
 <br/>
+
+---
 
 <p align="left">I am a deep logic builder & a problem-solver with great adaptability depending on what the project requires. I love exploring different tech stacks 💻 and leveraging them to build cool things 🛠️. </p>
 
@@ -46,7 +51,7 @@ JSON         26 mins         ▒░░░░░░░░░░░░░░░░
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <br />
