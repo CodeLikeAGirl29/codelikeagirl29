@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jrnlTtQdMwdpzXs1l7/giphy.gif" width="250"/>
 </div>
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
-<h3 align="center">A __Frontend Web Developer__ based in Fort Walton Beach, FL, USA</h3>
+<h3 align="center">A <i>Frontend Web Developer</i> based in Fort Walton Beach, FL, USA</h3>
 
 <!--START_SECTION:waka-->
 
