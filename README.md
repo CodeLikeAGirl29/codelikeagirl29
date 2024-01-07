@@ -2,6 +2,15 @@
 <h3 align="center">A Full Stack Web Developer based in Fort Walton Beach, FL, USA</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+Other        18 hrs 50 mins  ████████████████████▒░░░░   81.72 %
+JavaScript   1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+HTML         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+CSS          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codelikeagirl29&label=Profile%20views&color=0e75b6&style=flat" alt="codelikeagirl29" /> </p>
