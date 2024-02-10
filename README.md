@@ -4,6 +4,10 @@
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
 <h3 align="center">A <i>Frontend Web Developer</i> based in Fort Walton Beach, FL, USA</h3>
 
+<p align="center">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20558%26project%3D%26in=0">
+</p>
+
 <!--START_SECTION:waka-->
 
 ```txt
