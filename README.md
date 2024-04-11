@@ -43,13 +43,9 @@ Markdown         29 hrs 26 mins  ▓░░░░░░░░░░░░░░�
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lindseythedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lindseythedeveloper" height="30" width="40" /></a>
-<a href="https://dev.to/codelikeagirl29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codelikeagirl29" height="30" width="40" /></a>
-<a href="https://twitter.com/dev_lindseyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_lindseyk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lindsey-howard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lindsey-howard" height="30" width="40" /></a>
-<a href="https://codesandbox.com/codelikeagirl29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codelikeagirl29" height="30" width="40" /></a>
-<a href="https://fb.com/codelikeagirl91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codelikeagirl91" height="30" width="40" /></a>
-<a href="https://instagram.com/fiercely.lindseyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fiercely.lindseyy" height="30" width="40" /></a>
+
+[![My Skills](https://skillicons.dev/icons?i=codepen,devto,twitter,linkedin,stackoverflow,instagram)](https://hopp.bio/lindseyk)
+
 </p>
 
 ---
