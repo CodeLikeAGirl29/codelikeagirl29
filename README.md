@@ -31,7 +31,7 @@ Markdown         30 hrs          ▒░░░░░░░░░░░░░░�
 - 👨‍💻 All of my projects are available at [www.lindseyk.dev/](www.lindseyk.dev/)
 - 💬 Ask me about **anything you'd like**.
 - 📫 How to reach me **codelikeagirl91@gmail.com**
-- 📝 Checkout my [resume](https://drive.google.com/file/d/1DaP9fOsDpr0MD8i_EN-unzA-z5Egdsk_/view?usp=sharing)
+- 📝 Checkout my [resume](https://docs.google.com/document/d/1Ridnv_Wzk9Uo5P0ksVRLA52aEaN9lbO1/edit?usp=sharing&ouid=106707598762258660153&rtpof=true&sd=true)
 
 <p align="center"><u>"Adapt what is useful, reject what is useless, and add what is specifically your own.</u>"<br> -Bruce Lee</p>
 <br/>
