@@ -1,6 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jrnlTtQdMwdpzXs1l7/giphy.gif" width="250"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAzcTB4cmFhYmFqeWg3Mmp6N3V3cWRldTBzbmxjOWV0ZTg1ZG80biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
 </div>
+
+
+ <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/codelikeagirl29"/>  
+    </div>
+
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
 <h3 align="center">A <i>Frontend Web Developer</i> based in Fort Walton Beach, FL, USA</h3>
 
