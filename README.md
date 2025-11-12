@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAzcTB4cmFhYmFqeWg3Mmp6N3V3cWRldTBzbmxjOWV0ZTg1ZG80biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NtM3Y3aG5iaDcxNHhlOTh2aTN4eDJob25icHJreXFsYWJsN2c0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
 </div>
 
 
-
 ![](https://komarev.com/ghpvc/?username=codelikeagirl29)
+
 
 
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
