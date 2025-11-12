@@ -2,11 +2,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NtM3Y3aG5iaDcxNHhlOTh2aTN4eDJob25icHJreXFsYWJsN2c0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
 </div>
 
-
-![](https://komarev.com/ghpvc/?username=codelikeagirl29)
-
-
-
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
 <h3 align="center">A <i>Frontend Web Developer</i> based in Fort Walton Beach, FL, USA</h3>
 
