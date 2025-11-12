@@ -3,10 +3,9 @@
 </div>
 
 
- <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/codelikeagirl29"/>  
-    </div>
+
+![](https://komarev.com/ghpvc/?username=codelikeagirl29)
+
 
 <h1 align="center">👋 Hi, I'm Lindsey</h1>
 <h3 align="center">A <i>Frontend Web Developer</i> based in Fort Walton Beach, FL, USA</h3>
