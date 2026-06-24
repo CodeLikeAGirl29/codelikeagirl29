@@ -16,7 +16,7 @@ TypeScript       61 hrs 52 mins        ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codelikeagirl29&label=Profile%20views&color=0e75b6&style=flat" alt="codelikeagirl29" /> </p>
+[![Hits](https://hits.sh/github.com/CodeLikeAGirl29.svg?style=plastic&label=profile%20views&extraCount=10476&color=d50ef2)](https://hits.sh/github.com/CodeLikeAGirl29/)
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1685765728/dev-branding/dev_girl_rxjcb3_scevwv.png" width="360px"/>
 
