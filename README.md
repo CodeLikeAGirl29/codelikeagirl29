@@ -44,6 +44,8 @@ TypeScript       61 hrs 52 mins        ▓░░░░░░░░░░░░�
 
 [![My Skills](https://skillicons.dev/icons?i=codepen,devto,twitter,linkedin,stackoverflow,instagram)](https://hopp.bio/lindseyk)
 
+[![Peerlist](https://img.shields.io/badge/peerlist-lindseykdev-00AA45)](https://peerlist.io/lindseykdev)
+
 </p>
 
 ---
