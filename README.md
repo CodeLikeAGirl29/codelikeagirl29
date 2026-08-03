@@ -6,14 +6,6 @@
 <h3 align="center">A <i>Frontend Web Developer</i> based in Fort Walton Beach, FL, USA</h3>
 
 <!--START_SECTION:waka-->
-
-```txt
-JavaScript       269 hrs 12 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-HTML             200 hrs 25 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-CSS              134 hrs 49 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-TypeScript       68 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-```
-
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.sh/github.com/CodeLikeAGirl29.svg?style=plastic&label=profile%20views&extraCount=10476&color=d50ef2)](https://hits.sh/github.com/CodeLikeAGirl29/)
