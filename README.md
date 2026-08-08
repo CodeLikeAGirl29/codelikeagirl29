@@ -6,42 +6,14 @@
 <h3 align="center">A <i>Frontend Web Developer</i> based in Fort Walton Beach, FL, USA</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20mins-blue?style=flat)
-
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   216 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Tuesday                  168 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Wednesday                181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Friday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Saturday                 182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Sunday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+```txt
+JavaScript       269 hrs 12 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+HTML             200 hrs 25 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+CSS              134 hrs 49 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+TypeScript       68 hrs 47 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    38 hrs 13 mins      ████████████████████████░   94.23 % 
-EJS                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-TypeScript               46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 08/08/2026 19:11:08 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.sh/github.com/CodeLikeAGirl29.svg?style=plastic&label=profile%20views&extraCount=10476&color=d50ef2)](https://hits.sh/github.com/CodeLikeAGirl29/)
