@@ -6,14 +6,41 @@
 <h3 align="center">A <i>Frontend Web Developer</i> based in Fort Walton Beach, FL, USA</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2030%20mins-blue?style=flat)
 
-```txt
-JavaScript       270 hrs 9 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-HTML             200 hrs 25 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-CSS              134 hrs 49 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-TypeScript       68 hrs 47 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20mins-blue?style=flat)
+
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   222 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Tuesday                  171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Wednesday                187 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Thursday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Friday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Saturday                 183 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Sunday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    12 hrs 27 mins      ██████████████████████░░░   87.41 % 
+JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 19/08/2026 19:06:34 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.sh/github.com/CodeLikeAGirl29.svg?style=plastic&label=profile%20views&extraCount=10476&color=d50ef2)](https://hits.sh/github.com/CodeLikeAGirl29/)
